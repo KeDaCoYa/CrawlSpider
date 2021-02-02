@@ -1,1 +1,2 @@
+使用ffmpeg来讲视频和音频合并，可以自己写脚本实现
 ffmpeg.exe -i audio1.mp4 -i video.mp4 -acodec copy -vcodec copy output.mp4 
