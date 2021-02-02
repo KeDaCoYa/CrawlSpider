@@ -1,0 +1,1 @@
+ffmpeg.exe -i audio1.mp4 -i video.mp4 -acodec copy -vcodec copy output.mp4 
